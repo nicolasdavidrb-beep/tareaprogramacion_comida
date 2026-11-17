@@ -1,0 +1,40 @@
+{
+  "comidas": [
+    {
+      "id": 1,
+      "nombre": "Camiseta oficial de Nebula Fest",
+      "precio": 80000,
+      "imagen": "img/camiseta.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Tote bag oficial de Nebula Fest",
+      "precio": 45000,
+      "imagen": "img/tote-bag.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Pulsera conmemorativa de Nebula Fest",
+      "precio": 25000,
+      "imagen": "img/pulsera.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Hamburguesa de la zona gastronómica",
+      "precio": 25000,
+      "imagen": "img/hamburguesa.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Bebida refrescante de Nebula Fest",
+      "precio": 5000,
+      "imagen": "img/bebida.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Postre Helado",
+      "precio": 7000,
+      "imagen": "img/postre.png"
+    }
+  ]
+}
